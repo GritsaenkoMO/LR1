@@ -1,0 +1,9 @@
+var i = 0;
+while(i < 2)
+{
+document.write("Happy b to you");
+i = i + 1;
+}
+var name = "Joe";
+document.write("Happy b dear " + name");
+document.write("Happy b to you");
